@@ -104,7 +104,7 @@ sudo apt update -y
 
 sudo apt install wget -y 
 
-git clone https://github.com/OnlineHacKing/Cloud_Linux_RDP.git
+git clone https://github.com/kr812/Cloud_Linux_RDP.git
 
 cd Cloud_Linux_RDP
 
